@@ -1,8 +1,5 @@
 FROM resin/odroid-xu4-debian 
 
-# From resin/odroid-xu4-debian instructions
-ENV INITSYSTEM on
-
 MAINTAINER Drake Deno <drake.deno@gmail.com>
 
 # Update repository sources list and distribution
